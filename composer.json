@@ -1,0 +1,12 @@
+{
+    "name": "artovenry/view_helper",
+    "authors": [
+        {
+            "name": "artovenry",
+            "email": "artovenry@gmail.com"
+        }
+    ],
+     "autoload":{
+       "psr-4":{"": "lib/"}
+    }
+}
